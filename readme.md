@@ -1,6 +1,7 @@
 
 # Project Documentation: Decentralized Knowledge & Identity Platform
-## make sure to read or technical.md for more information about all the given implementations
+
+## make sure to read or technical.md and AI.md for more information about all the given implementations
 
 ## 🌟 Overview
 Our project is a comprehensive decentralized platform that combines:

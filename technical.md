@@ -1,5 +1,7 @@
 # Wallet Logic Integration
 
+# Check out our AI.md for more information about the AI we are using to generate our content
+
 This file contains the logic to integrate wallet functionality into your React application using **Privy**, **Biconomy AbstractJS**, and **Viem**.
 
 ## Features:
