@@ -1,8 +1,10 @@
 
 # ZK Identity Verification API - Hackathon Documentation
 
-## 📝 Overview
+# smart contract on ZK era for zk verification
+```0x4B93D458a243641327Bf5E3b94031170076Bc5eC```
 
+## 📝 Overview
 This API provides endpoints for generating and verifying zero-knowledge proofs for identity verification. It connects to a smart contract on zkSync Era mainnet to perform on-chain proof verification.
 
 ## 🚀 Quick Start
